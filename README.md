@@ -33,6 +33,7 @@ Every month, one lucky wallet holding DONYO tokens for at least 30 days is selec
 
 # The DonnaYolo Mascot: Bold, Trend-Setting, Unapologetic
 ![DonnaYolo Coin Logo](./images/coin-mascot.png)
+
 Meet the DonnaYolo Mascot, a stylish figure that embodies the bold, free-thinking ethos of the project. Whether it’s the charming human version of donnaiolo or the sleek animal mascot (a confident, sleek fox known for cleverness and independence), the DonnaYolo mascot captures the spirit of the project—someone who sets trends, not follows them.
 
 These mascots not only represent the brand but will also be featured in limited edition NFTs, available to early adopters and trendsetters.
