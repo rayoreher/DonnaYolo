@@ -20,10 +20,10 @@ At the heart of DonnaYolo is the idea of living fearlessly and taking risks. Lik
 2. Free Thinker’s Tokenomics
 DONYO’s tokenomics are designed to reward those who take bold actions:
 
-40% Airdrop to Early Supporters: Early believers in the project who help build the community will be rewarded with a large airdrop, aligning with the YOLO mindset of seizing opportunities.
-20% Liquidity Pool: Ensures smooth and high-volume trading on decentralized exchanges, making it accessible for everyone, from risk-takers to cautious investors.
-10% Staking Rewards: Holders who stake their DONYO tokens will be rewarded with high returns, incentivizing long-term belief in the project and embracing the philosophy of long-term risk and reward.
-2% Trendsetter Tax: A unique mechanism that redistributes tokens from every transaction to loyal holders, while burning a portion of each transaction to increase token scarcity.
+  - 40% Airdrop to Early Supporters: Early believers in the project who help build the community will be rewarded with a large airdrop, aligning with the YOLO mindset of seizing opportunities.
+  - 20% Liquidity Pool: Ensures smooth and high-volume trading on decentralized exchanges, making it accessible for everyone, from risk-takers to cautious investors.
+  - 10% Staking Rewards: Holders who stake their DONYO tokens will be rewarded with high returns, incentivizing long-term belief in the project and embracing the philosophy of long-term risk and reward.
+  - 2% Trendsetter Tax: A unique mechanism that redistributes tokens from every transaction to loyal holders, while burning a portion of each transaction to increase token scarcity.
 3. Trendsetter DAO Governance
 DonnaYolo is more than just a token—it’s a community-led movement. Through the Trendsetter DAO, holders of DONYO will shape the future of the project. They’ll vote on key decisions like partnerships, product features, and which charities to support, ensuring that DonnaYolo is constantly evolving with its community.
 
