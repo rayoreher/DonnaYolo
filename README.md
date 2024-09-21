@@ -1,3 +1,4 @@
+![DonnaYolo Coin Logo](./images/coin-logo.png)
 # DonnaYolo (DONYO): The Memecoin That Lives Boldly
 - Symbol: DONYO
 - Blockchain: Kava
