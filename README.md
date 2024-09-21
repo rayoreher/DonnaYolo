@@ -7,9 +7,9 @@
 - Whitepaper: soon
 
 # Introduction
-Welcome to DonnaYolo (DONYO)—the memecoin that celebrates breaking free from conformity and living life to the fullest. DonnaYolo isn’t just another meme-based crypto project—it’s a lifestyle, a mindset, and a movement.
+Welcome to DonnaYolo (DONYO)—the memecoin that celebrates breaking free from conformity and living life to the fullest. DonnaYolo isn’t just another meme-based crypto project, it’s a lifestyle, a mindset, and a movement.
 
-Inspired by the Italian concept of "donnaiolo"—a confident, trend-setting individual who refuses to follow societal norms—and combined with the YOLO philosophy of You Only Live Once, DONYO embodies independence, boldness, and risk-taking.
+Inspired by the Italian concept of "donnaiolo" a confident, trend-setting individual who refuses to follow societal norms and combined with the YOLO philosophy of You Only Live Once, DONYO embodies independence, boldness, and risk-taking.
 
 Whether you're an early crypto adopter, a trendsetter in your community, or someone who embraces living freely, DonnaYolo is the coin that lets you be yourself and live boldly in the world of crypto.
 
