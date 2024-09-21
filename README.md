@@ -32,6 +32,7 @@ DonnaYolo is more than just a token—it’s a community-led movement. Through t
 Every month, one lucky wallet holding DONYO tokens for at least 30 days is selected for a YOLO jackpot. This lottery rewards those bold enough to hold and believe in the project, with chances to win huge rewards.
 
 # The DonnaYolo Mascot: Bold, Trend-Setting, Unapologetic
+![DonnaYolo Coin Logo](./images/coin-mascot.png)
 Meet the DonnaYolo Mascot, a stylish figure that embodies the bold, free-thinking ethos of the project. Whether it’s the charming human version of donnaiolo or the sleek animal mascot (a confident, sleek fox known for cleverness and independence), the DonnaYolo mascot captures the spirit of the project—someone who sets trends, not follows them.
 
 These mascots not only represent the brand but will also be featured in limited edition NFTs, available to early adopters and trendsetters.
