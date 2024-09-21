@@ -1,10 +1,10 @@
 # DonnaYolo (DONYO): The Memecoin That Lives Boldly
-Symbol: DONYO
-Blockchain: Kava
-Total Supply: 1,000,000,000 DONYO
+- Symbol: DONYO
+- Blockchain: Kava
+- Total Supply: 1,000,000,000 DONYO
 
-Website: soon
-Whitepaper: soon
+- Website: soon
+- Whitepaper: soon
 
 # Introduction
 Welcome to DonnaYolo (DONYO)—the memecoin that celebrates breaking free from conformity and living life to the fullest. DonnaYolo isn’t just another meme-based crypto project—it’s a lifestyle, a mindset, and a movement.
