@@ -46,22 +46,23 @@ DONYO will soon partner with extreme sports companies, travel brands, and lifest
 # Community-Driven Success
 At the core of DonnaYolo’s mission is its community—a group of free thinkers, risk-takers, and non-conformists who want to create a decentralized, YOLO-inspired movement.
 
-Reddit: A lively space for discussions, stories of bold risk-taking, and crypto market analysis.
-Telegram: Daily discussions, market trends, and community challenges to win DONYO.
-Discord: A place for more technical discussions, partnerships, and sneak peeks at upcoming NFT drops.
-The YOLO and donnaiolo spirit is alive in these communities, with each member contributing to the larger movement.
+- Reddit: A lively space for discussions, stories of bold risk-taking, and crypto market analysis.
+- Telegram: Daily discussions, market trends, and community challenges to win DONYO.
+- Discord: A place for more technical discussions, partnerships, and sneak peeks at upcoming NFT drops.
+- The YOLO and donnaiolo spirit is alive in these communities, with each member contributing to the larger movement.
 
 # Why Invest in DONYO?
-Unique Branding: A combination of YOLO and donnaiolo ensures that DonnaYolo stands out in the crowded memecoin space with a fresh, original concept.
-Strong Community: DonnaYolo is not just about making money—it's about creating a culture of freedom, independence, and boldness.
-Long-Term Vision: With DAO governance, NFT collections, and real-world use cases, DONYO has a roadmap for sustained growth and innovation.
-High Reward Potential: From staking programs to lotteries and unique airdrops, there are many ways to win big with DONYO.
-Moonshot Potential
+- Unique Branding: A combination of YOLO and donnaiolo ensures that DonnaYolo stands out in the crowded memecoin space with a fresh, original concept.
+- Strong Community: DonnaYolo is not just about making money—it's about creating a culture of freedom, independence, and boldness.
+- Long-Term Vision: With DAO governance, NFT collections, and real-world use cases, DONYO has a roadmap for sustained growth and innovation.
+- High Reward Potential: From staking programs to lotteries and unique airdrops, there are many ways to win big with DONYO.
+- 
+# Moonshot Potential
 With its strong community focus, innovative tokenomics, and real-world applications, DonnaYolo has the potential to become the next big memecoin sensation. This project is designed not just to ride trends but to set them.
 
-Join DonnaYolo today—because You Only Live Once, and it's time to start living boldly!
+Join DonnaYolo today — because You Only Live Once, and it's time to start living boldly!
 
-Start Living the DonnaYolo Way
-Website: soon
-Telegram: soon
-Discord: soon
+# Start Living the DonnaYolo Way
+- Website: soon
+- Telegram: soon
+- Discord: soon
